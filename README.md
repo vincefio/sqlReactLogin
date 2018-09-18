@@ -1,3 +1,5 @@
+This is a simple application I built to practice some React, SQL, node.  I enjoyed learning to use bcrypt and exploring different methods of user authentication. I plan to build upon this basic model to create more complex applications.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
